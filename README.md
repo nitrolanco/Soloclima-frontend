@@ -1,6 +1,3 @@
-Aquí tienes un README sencillo para tu app de Svelte con Tailwind:
-
-````markdown
 # Svelte App con Tailwind CSS
 
 Este es un proyecto simple de Svelte que utiliza Tailwind CSS para el diseño y estilo de la interfaz.
@@ -17,6 +14,7 @@ Este es un proyecto simple de Svelte que utiliza Tailwind CSS para el diseño y 
    git clone <url-del-repositorio>
    cd <directorio-del-proyecto>
    ```
+
 ````
 
 2. Instala las dependencias:
@@ -44,3 +42,4 @@ Este es un proyecto simple de Svelte que utiliza Tailwind CSS para el diseño y 
    ```
 
    La app estará disponible en `http://localhost:5173`.
+````
